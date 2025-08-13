@@ -1,0 +1,9 @@
+python-dotenv
+requests
+pandas
+numpy
+statsmodels
+scipy
+matplotlib
+tqdm
+pyarrow
