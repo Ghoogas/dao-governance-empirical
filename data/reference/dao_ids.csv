@@ -1,0 +1,2 @@
+id,name,chain,snapshot_space,tally_org,token_address,governor_address,defillama_slug,dune_query_id
+example.eth,Example DAO,eth,example.eth,example-dao,0x0000000000000000000000000000000000000000,0x0000000000000000000000000000000000000000,example-dao,1234567
